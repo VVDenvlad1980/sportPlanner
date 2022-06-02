@@ -1,2 +1,2 @@
 # sportPlanner
-to do list for taning
+to do list for tranning
